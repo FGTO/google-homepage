@@ -1,0 +1,1 @@
+This is a project from The Odin Project where we going to make a copy of Google landing page.
